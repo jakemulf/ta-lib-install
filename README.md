@@ -19,7 +19,7 @@ sh start.sh
 
 ## Example TA-lib code
 
-Once launched, you can go to [`localhost:10000`](localhost:10000) and run Python code that uses TA-lib.
+Once launched, you can go to [`localhost:10000`](http://localhost:10000) and run Python code that uses TA-lib.
 
 ```python
 import numpy
